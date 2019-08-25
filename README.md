@@ -5,3 +5,6 @@ Prediction of Heart Disease by building different machine learning techniques su
 
 
 Logistic Regression, KNN, PCA, SVM, Random Forest.
+
+
+![PCA](https://github.com/meeyoonchoo/meeyoonchoo.github.io/blob/master/img/PCA2.png)
